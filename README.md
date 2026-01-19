@@ -152,6 +152,9 @@
  https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json	# 青龙
  https://raw.githubusercontent.com/maoystv/6/main/000.json	# 分享
  https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json		# 短剧
+ https://raw.githubusercontent.com/chitue/dongliTV/main/api.json	# 东篱线路
+ https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/config	# 嗷呜线路
+ https://android.lushunming.qzz.io/json/index.json	# L佬线路
 
 多仓：
  https://www.iyouhun.com/tv/dc   # 游魂多仓
